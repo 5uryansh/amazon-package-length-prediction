@@ -1,0 +1,5 @@
+numpy==1.24.4
+pandas==1.1.5
+skicit-learn==0.24.0
+torch==1.12.1
+tqdm==4.62.3
